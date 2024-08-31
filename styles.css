@@ -105,11 +105,6 @@ a:hover {
     100% { border-right-color: #00ff00; }
 }
 
-#command-input {
-    border-right: 2px solid;
-    
-}
-
 ::-webkit-scrollbar {
     width: 8px;
 }
