@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
             <div>
                 <p>Welcome to My Portfolio</p>
                 <p>Type <strong>help</strong> for more commands.</p>
-                <p>© 2024 Nizar Alghifary</p>
+                <p>© 2024-2025 Nizar Alghifary</p>
             </div>
         `;
     const bannerElement = document.createElement('div');
